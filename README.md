@@ -20,3 +20,23 @@ points)
 * The content is relevant to the project. (10 points)
 * The presentation maintains audience interest. (5 points)
 This project will be evaluated against the requirements and assigned a grade acco
+
+## Project Concept
+
+## Data Selection and Preprocessing
+* Data Source: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
+* Using Jupyter notebook
+* Pandas - drop columns related to TV Shows (seasons, tmbd_popularity, & tmbd_score)
+* Spark/SparkSQL - remove TV Shows
+* Pandas - 
+* remove rows where IMDB_score is null  
+* remove [], ‘, & extra blanks from fields
+* Split genres field into separate fields for each genre
+
+## Data Model useage and optimization
+* kearas Model was used against 3 Geners kearas Tuner was used to optimize the models getting 2 of them above the 75% accuracy
+* 
+
+## Visualizations using Matplot 
+* Plot of genras and the number of people who rated them showed Drama had the most votes
+* Plot of min and Max IMDB scores for each Genre shows there was more vartriation in some Genre than others
