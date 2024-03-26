@@ -6,6 +6,7 @@ This project is looking at the predictability of the IMDb rating.  IMDb (an acro
 
 ## Data Selection and Preprocessing
 * Data Source: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
+* License: https://creativecommons.org/publicdomain/zero/1.0/
 * Using Jupyter notebook
 * Pandas - drop columns related to TV Shows (seasons, tmbd_popularity, & tmbd_score)
 * Spark/SparkSQL - remove TV Shows
