@@ -2,7 +2,11 @@
 Due Mar 26 by 11:59pm
 
 ## Project Concept
-This project is looking at the predictability of the IMDb rating.  IMDb (an acronym for Internet Movie Database) is an online database of information related to films, television series, podcasts, home videos, video games, and streaming content online rating.  IMDb offers registered users the opportunity to rate titles on a scale of one to ten.  The average of this becomes the IMDb score.  To obtain data for this project we used Kaggel the  Official Netflix Viewership Database.  Four files from Kaggle were considered.  After preliminary analysis of the files we chose to use “Titles”. 
+Netflix - who hasn’t heard of the company?  
+This project is looking at the predictability of the IMDb rating.  IMDb (an acronym for Internet Movie Database) is an online database of information related to films, television series, podcasts, home videos, video games, and streaming content online rating.  IMDb offers registered users the opportunity to rate titles on a scale of one to ten.  The average of this becomes the IMDb score. 
+To obtain data for this project, we looked at two datasets with multiple spreadsheets on Kaggle. We decided to use the “Official Netflix Viewership Database” and specifically use the titles.csv file because it contained the most complete data.
+We applied both the Keras and Linear Regression models to this data. We used Tableau to see if there were other predictions we wanted to make.
+
 
 ## Data Selection and Preprocessing
 * Data Source: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
