@@ -23,12 +23,13 @@ This project is looking at the predictability of the IMDb rating.  IMDb (an acro
 * Plot of min and Max IMDB scores for each Genre shows there was more vartriation in some Genre than others
 
 Tableau public pages: https://public.tableau.com/app/profile/jennifer.white5832/viz/Project4movieratings/Story1?publish=yes
-https://public.tableau.com/views/MovieRatings_17110737906980/GenreScores?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+* https://public.tableau.com/views/MovieRatings_17110737906980/GenreScores?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Acknowledgements/Resources
 * Dallin Whitaker - project concept
 * https://stackoverflow.com - color options for charts
 * https://seaborn.pydata.org/generated/seaborn.barplot.html - making bar plots
+* https://en.wikipedia.org/wiki/Motion_Picture_Association_film_rating_system
 
 ## Project 4 Rubric:
 ### Data Model Implementation (25 points)
