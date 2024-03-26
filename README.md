@@ -16,7 +16,7 @@ This project is looking at the predictability of the IMDb rating.  IMDb (an acro
 
 ## Data Model useage and optimization
 * Keras Model was used against 3 genres keras Tuner was used to optimize the models getting 2 of them above the 75% accuracy
-* 
+* LinearRegression Model was used to predict imdb rating based off of the features of the dataset - did not achieve meaningful accuracy
 
 ## Visualizations using Matplot 
 * Plot of genres and the number of people who rated them showed Drama had the most votes
