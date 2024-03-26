@@ -34,9 +34,13 @@ This project will be evaluated against the requirements and assigned a grade acc
 * Split genres field into separate fields for each genre
 
 ## Data Model useage and optimization
-* Keras Model was used against 3 Geners keras Tuner was used to optimize the models getting 2 of them above the 75% accuracy
+* Keras Model was used against 3 genres keras Tuner was used to optimize the models getting 2 of them above the 75% accuracy
 * 
 
 ## Visualizations using Matplot 
 * Plot of genres and the number of people who rated them showed Drama had the most votes
 * Plot of min and Max IMDB scores for each Genre shows there was more vartriation in some Genre than others
+
+Tableau public pages: https://public.tableau.com/app/profile/jennifer.white5832/viz/Project4movieratings/Story1?publish=yes
+https://public.tableau.com/views/MovieRatings_17110737906980/GenreScores?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
