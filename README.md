@@ -35,6 +35,9 @@ We applied both the Keras and Linear Regression models to this data. We used Tab
 Tableau public pages: https://public.tableau.com/app/profile/jennifer.white5832/viz/Project4movieratings/Story1?publish=yes
 * https://public.tableau.com/views/MovieRatings_17110737906980/GenreScores?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
+Powerpoint with Tableau link:
+* https://docs.google.com/presentation/d/1fPhWLJrVFiIvvUEJyS8gswrr0U7Y-UuP_RtkRsuqZqQ/edit#slide=id.g2c56b5375f8_0_0
+
 ## Acknowledgements/Resources
 * Dallin Whitaker - project concept
 * https://stackoverflow.com - color options for charts
